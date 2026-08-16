@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       <header className="portal-header">
-        <h1>Game Portal</h1>
+        <h1>Zikri Game Portal</h1>
         <p>Pick a game and start playing</p>
       </header>
       <main className="game-grid">
