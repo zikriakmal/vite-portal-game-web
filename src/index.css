@@ -36,7 +36,7 @@ body {
 }
 
 #root {
-  @apply mx-auto max-w-[1280px] px-6 pb-20;
+  @apply mx-auto max-w-7xl px-6 pb-20;
 }
 
 ::selection {
