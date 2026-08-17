@@ -6,7 +6,7 @@ interface GameCardProps {
 
 function GameCard({ game }: GameCardProps) {
   return (
-    <div className="group flex flex-col overflow-hidden rounded-2xl border border-surface-border bg-surface transition-[transform,box-shadow,border-color] duration-250 ease-out hover:-translate-y-1.5 hover:border-accent hover:shadow-[0_16px_40px_rgba(134,59,255,0.25)]">
+    <div className="group flex flex-col overflow-hidden rounded-2xl border border-surface-border bg-surface transition-[transform,box-shadow,border-color] duration-250 ease-out hover:-translate-y-1.5 hover:border-accent hover:shadow-[0_16px_40px_rgba(74,222,128,0.25)]">
       <div className="relative overflow-hidden">
         <img
           src={game.thumbnail}

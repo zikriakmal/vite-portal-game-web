@@ -5,15 +5,12 @@ import games from './data/games'
 function App() {
   return (
     <div>
-      <header className="flex items-center gap-3 py-7">
+      <header className="flex items-center py-7">
         <img
-          src="/favicon.svg"
-          alt=""
-          className="h-8 w-8 shrink-0 drop-shadow-[0_0_12px_rgba(134,59,255,0.55)]"
+          src="/za_logo.png"
+          alt="ZA Game Development Studio"
+          className="h-11 w-auto shrink-0 drop-shadow-[0_0_16px_rgba(74,222,128,0.45)]"
         />
-        <span className="font-display text-[1.05rem] font-semibold tracking-[0.01em] text-text">
-          Zikri Game Portal
-        </span>
       </header>
 
       <Hero />

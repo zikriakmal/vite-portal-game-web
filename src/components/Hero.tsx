@@ -93,7 +93,7 @@ function Hero() {
         </p>
         <a
           href="#games"
-          className="group inline-flex items-center gap-2.5 rounded-full bg-gradient-to-br from-accent to-accent-soft px-7 py-3.5 font-semibold text-white shadow-[0_8px_24px_rgba(134,59,255,0.35)] transition duration-200 hover:-translate-y-0.5 hover:shadow-[0_12px_32px_rgba(134,59,255,0.45)]"
+          className="group inline-flex items-center gap-2.5 rounded-full bg-gradient-to-br from-accent to-accent-soft px-7 py-3.5 font-semibold text-white shadow-[0_8px_24px_rgba(74,222,128,0.35)] transition duration-200 hover:-translate-y-0.5 hover:shadow-[0_12px_32px_rgba(74,222,128,0.45)]"
         >
           Explore Games
           <span
@@ -115,7 +115,7 @@ function Hero() {
           <img
             src={heroImage}
             alt=""
-            className="w-[260px] max-w-full [filter:drop-shadow(0_20px_40px_rgba(134,59,255,0.35))] [transform:rotateX(var(--tilt-x))_rotateY(var(--tilt-y))] transition-transform duration-200 ease-out max-[820px]:w-[200px]"
+            className="w-[260px] max-w-full [filter:drop-shadow(0_20px_40px_rgba(74,222,128,0.35))] [transform:rotateX(var(--tilt-x))_rotateY(var(--tilt-y))] transition-transform duration-200 ease-out max-[820px]:w-[200px]"
           />
         </div>
       </div>
