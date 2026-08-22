@@ -16,6 +16,14 @@ const games: Game[] = [
     url: "/games/dodge-the-creeps/godot-game-web.html",
     engine: "Godot",
   },
+  {
+    id: 2,
+    title: "Zikri Top Down Game",
+    description: "A top-down adventure game made with Godot.",
+    thumbnail: "/thumbnails/zikri-top-down-game.png",
+    url: "/games/zikri-top-down-game/index.html",
+    engine: "Unity",
+  },
 ]
 
 export default games
